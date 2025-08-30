@@ -1,0 +1,47 @@
+.books {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+}
+
+.card {
+  width: 200px;
+  height: 300px;
+  border-radius: 5px;
+  padding: 8px;
+  background: #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  margin: 7px 0 7px 0;
+  width: 150px;
+  background-color: #e9eff2;
+  height: 20px;
+}
+
+.author,
+.publish-date {
+  margin: 7px 0 7px 0;
+  width: 100px;
+  background-color: #e9eff2;
+  height: 20px;
+}
+
+.img-card {
+  /* background: #d0d5da; */
+  border-radius: 5px;
+  width: 140px;
+  height: 195px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
