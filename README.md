@@ -74,20 +74,16 @@ npm run build
 The app is deployed here 👉 [Live Demo Link](https://your-vercel-or-codesandbox-link)
 code is deployed here 👉 [Live Demo Link](https://your-vercel-or-codesandbox-link)
 
-````markdown
 ## 🔹 Folder Structure
 
-```plaintext
 book-finder/
- ├── public/        # Static assets
- ├── src/
- │   ├── components/
- │   │   ├── SearchBar.jsx
- │   │   ├── ShimmerUI.jsx
- │   │   └── BookList.jsx
- │   ├── App.jsx
- │   ├── main.jsx
- ├── package.json
- └── README.md
-```
-````
+├── public/ # Static assets
+├── src/
+│ ├── components/
+│ │ ├── SearchBar.jsx
+│ │ ├── ShimmerUI.jsx
+│ │ └── BookList.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+├── package.json
+└── README.md
