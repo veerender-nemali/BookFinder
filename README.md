@@ -71,8 +71,8 @@ npm run build
 
 🔹 Deployment
 
-The app is deployed here 👉 [Live Demo Link](https://your-vercel-or-codesandbox-link)
-code is deployed here 👉 [Live Demo Link](https://your-vercel-or-codesandbox-link)
+- The app is deployed here 👉 [Live Demo Link](https://your-vercel-or-codesandbox-link)
+- code is deployed here 👉 [Live Demo Link](https://your-vercel-or-codesandbox-link)
 
 ````markdown
 ## 🔹 Folder Structure
