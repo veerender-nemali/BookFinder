@@ -71,8 +71,8 @@ npm run build
 
 🔹 Deployment
 
-- The app is deployed here 👉 [Live Demo Link](https://your-vercel-or-codesandbox-link)
-- code is deployed here 👉 [Live Demo Link](https://your-vercel-or-codesandbox-link)
+- The app is deployed here 👉 [Live Demo Link](https://veerender-nemali-bookfinder.netlify.app/)
+- code is deployed here 👉 [Live Demo Link](https://codesandbox.io/p/github/veerender-nemali/BookFinder/main)
 
 ````markdown
 ## 🔹 Folder Structure
