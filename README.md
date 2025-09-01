@@ -82,11 +82,13 @@ book-finder/
  ├── public/        # Static assets
  ├── src/
  │   ├── components/
- │   │   ├── SearchBar.jsx
- │   │   ├── ShimmerUI.jsx
- │   │   └── BookList.jsx
- │   ├── App.jsx
- │   ├── main.jsx
+ │   │   ├── SearchBar.jsx    # Search bar component
+ │   │   ├── ShimmerUI.jsx    # Shimmer loading UI
+ │   │   └── BookList.jsx     # Displays list of book cards
+ │   ├── utils/
+ │   │   └── fetch.js         # Utility function for API calls
+ │   ├── App.jsx              # Main app logic
+ │   ├── main.jsx             # Entry point
  ├── package.json
  └── README.md
 ```
